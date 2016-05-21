@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: br.com.jprojetar.provider.UserServiceTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.003 sec <<< FAILURE! - in br.com.jprojetar.provider.UserServiceTest
+test(br.com.jprojetar.provider.UserServiceTest)  Time elapsed: 0.002 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at br.com.jprojetar.provider.UserServiceTest.test(UserServiceTest.java:28)
+
